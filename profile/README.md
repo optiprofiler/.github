@@ -1,7 +1,7 @@
 # OptiProfiler
 
 <p align="center">
-  <img src="../images/OP_logo.png" alt="OptiProfiler Logo" width="100">
+  <img src="../images/OP_logo.jpg" alt="OptiProfiler Logo" width="100">
 </p>
 
 <p align="center">
