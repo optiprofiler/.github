@@ -1,7 +1,7 @@
 # OptiProfiler: a platform for benchmarking optimization solvers
 
 <p align="center">
-  <img src="../images/OP_logo.jpg" alt="OptiProfiler Logo" width="500">
+  <img src="../images/op_rect.png" alt="OptiProfiler Logo" width="500">
 </p>
 
 ---
